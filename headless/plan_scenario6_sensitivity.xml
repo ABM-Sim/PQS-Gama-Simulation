@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Experiment_plan>
+    <Simulation id="0" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6A_Sensitivity_prob_cost_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="1" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6A_Sensitivity_prob_cost_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="2" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6A_Sensitivity_prob_cost_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="3" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6B_Sensitivity_in_know_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="4" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6B_Sensitivity_in_know_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="5" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6B_Sensitivity_in_know_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="6" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6C_Sensitivity_precus_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="7" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6C_Sensitivity_precus_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="8" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6C_Sensitivity_precus_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="9" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6D_Sensitivity_premar_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="10" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6D_Sensitivity_premar_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="11" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6D_Sensitivity_premar_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="12" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6E_Sensitivity_com_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="13" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6E_Sensitivity_com_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="14" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6E_Sensitivity_com_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="15" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6F_Sensitivity_man_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="16" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6F_Sensitivity_man_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="17" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6F_Sensitivity_man_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="18" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6G_Sensitivity_emp_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="19" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6G_Sensitivity_emp_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="20" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6G_Sensitivity_emp_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="21" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6H_Sensitivity_govfin_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="22" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6H_Sensitivity_govfin_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="23" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6H_Sensitivity_govfin_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="24" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6I_Sensitivity_govleg_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="25" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6I_Sensitivity_govleg_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="26" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_6I_Sensitivity_govleg_1_5" finalStep="5000">
+    </Simulation>
+</Experiment_plan>

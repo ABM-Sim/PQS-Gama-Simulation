@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Experiment_plan>
+    <Simulation id="0" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_6I_Sensitivity_govleg_0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="1" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_6I_Sensitivity_govleg_1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="2" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_6I_Sensitivity_govleg_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="3" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg1_0_TopdownOff_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="4" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg1_0_TopdownOff_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="5" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg1_0_TopdownOn_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="6" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg1_0_TopdownOn_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="7" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg2_0_TopdownOff_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="8" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg2_0_TopdownOff_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="9" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg2_0_TopdownOn_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="10" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy0_0_Govleg2_0_TopdownOn_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="11" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg1_0_TopdownOff_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="12" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg1_0_TopdownOff_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="13" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg1_0_TopdownOn_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="14" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg1_0_TopdownOn_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="15" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg2_0_TopdownOff_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="16" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg2_0_TopdownOff_BottomupOn" finalStep="5000">
+    </Simulation>
+    <Simulation id="17" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg2_0_TopdownOn_BottomupOff" finalStep="5000">
+    </Simulation>
+    <Simulation id="18" sourcePath="bdi-hierarchy-reworked_v2.27.gaml" experiment="Scenario_7_Subsidy1_0_Govleg2_0_TopdownOn_BottomupOn" finalStep="5000">
+    </Simulation>
+</Experiment_plan>

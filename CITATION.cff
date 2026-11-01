@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+title: "PQS-Gama-Simulation: agent-based model of the diffusion of post-quantum-safe encryption"
+type: software
+authors:
+  - family-names: Dubberstein
+    given-names: Dario
+    affiliation: "Friedrich-Schiller-University Jena"
+version: "2.28"
+repository-code: "https://github.com/ABM-Sim/PQS-Gama-Simulation"
+keywords:
+  - agent-based modelling
+  - GAMA
+  - BDI
+  - innovation diffusion
+  - post-quantum cryptography

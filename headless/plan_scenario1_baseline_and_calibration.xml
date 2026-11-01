@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Experiment_plan>
+    <Simulation id="0" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1_RandomBaseline" finalStep="5000">
+    </Simulation>
+    <Simulation id="1" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1B_HighResolutionBaseline" finalStep="5000">
+    </Simulation>
+    <Simulation id="2" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1C_ConstantCompare_1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="3" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1C_ConstantCompare_1_75" finalStep="5000">
+    </Simulation>
+    <Simulation id="4" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1C_ConstantCompare_2_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="5" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1C_ConstantCompare_3_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="6" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1C_ConstantCompare_3_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="7" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1C_ConstantCompare_4_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="8" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="9" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_2" finalStep="5000">
+    </Simulation>
+    <Simulation id="10" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="11" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_10" finalStep="5000">
+    </Simulation>
+    <Simulation id="12" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_20" finalStep="5000">
+    </Simulation>
+    <Simulation id="13" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_7" finalStep="5000">
+    </Simulation>
+    <Simulation id="14" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_8" finalStep="5000">
+    </Simulation>
+    <Simulation id="15" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_9" finalStep="5000">
+    </Simulation>
+    <Simulation id="16" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_11" finalStep="5000">
+    </Simulation>
+    <Simulation id="17" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_12" finalStep="5000">
+    </Simulation>
+    <Simulation id="18" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1D_InertiaCompare_15" finalStep="5000">
+    </Simulation>
+    <Simulation id="19" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1E_RandomInertiaCompare_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="20" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1E_RandomInertiaCompare_10" finalStep="5000">
+    </Simulation>
+    <Simulation id="21" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1E_RandomInertiaCompare_20" finalStep="5000">
+    </Simulation>
+    <Simulation id="22" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1F_Bureaucracy_LargeSlow" finalStep="5000">
+    </Simulation>
+    <Simulation id="23" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1F_ResourceBuffer_SMESlow" finalStep="5000">
+    </Simulation>
+    <Simulation id="24" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1G_GovAgentTest_NoIntervention" finalStep="5000">
+    </Simulation>
+    <Simulation id="25" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1G_GovAgentTest_FullIntervention" finalStep="5000">
+    </Simulation>
+    <Simulation id="26" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_1H_Diagnostic_PreMarTrajectory" finalStep="5000">
+    </Simulation>
+</Experiment_plan>

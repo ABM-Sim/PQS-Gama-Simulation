@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Experiment_plan>
+    <Simulation id="0" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost0_5_InKnow0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="1" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost0_5_InKnow1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="2" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost0_5_InKnow1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="3" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost1_0_InKnow0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="4" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost1_0_InKnow1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="5" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost1_0_InKnow1_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="6" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost1_5_InKnow0_5" finalStep="5000">
+    </Simulation>
+    <Simulation id="7" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost1_5_InKnow1_0" finalStep="5000">
+    </Simulation>
+    <Simulation id="8" sourcePath="../models/bdi-hierarchy-reworked_v2.28.gaml" experiment="Scenario_2_ProbCost1_5_InKnow1_5" finalStep="5000">
+    </Simulation>
+</Experiment_plan>

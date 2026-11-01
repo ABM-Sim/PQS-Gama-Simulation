@@ -1,0 +1,10 @@
+# simulation output
+*.csv
+!includes/**/*.csv
+results*/
+output*/
+# GAMA / Eclipse workspace files
+.metadata/
+snapshot/
+# headless crash logs
+hs_err_pid*.log
