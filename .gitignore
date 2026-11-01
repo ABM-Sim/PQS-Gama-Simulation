@@ -1,6 +1,8 @@
 # simulation output
 *.csv
 !includes/**/*.csv
+*.rar
+*.zip
 results*/
 output*/
 # GAMA / Eclipse workspace files
