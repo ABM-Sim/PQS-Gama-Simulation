@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23859766.svg)](https://doi.org/10.5281/zenodo.23859766)
+
 # PQS-Gama-Simulation
 
 Agent-based model (GAMA platform, BDI architecture) of the diffusion of post-quantum-safe (PQS)
